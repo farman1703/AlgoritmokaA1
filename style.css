@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+body {
+    background-image: url("download.jpg");
+    flex-direction: column;
+    display: flex;
+    
+}
+
+.center {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 580px;
+    height: 90px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 54px;
+    color: azure;
+    
+}
+
+.header {
+    margin-top: 16px;
+    margin-left: 8px;
+    color: azure;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+.texts{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.eren {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 15px;
+    font-size: 32px;
+}
+
+.texts p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 900;
+}
+
+.second {
+    height: 500px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    margin-right: 17px;
+}
+
+
